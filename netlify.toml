@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/*"
+  to = "https://vk.ru/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://vk.ru"
+  status = 302
